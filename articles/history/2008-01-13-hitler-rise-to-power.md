@@ -1,9 +1,9 @@
-#Hitler: Rise to Power
-
-* **First Written**: 2005
-* **First Published** : 2008-01-13
-* **Edited** : -
-* **Note:** Written as part of school history module
+---
+title: "Hitler: Rise to Power"
+date: 2008-01-13
+first_written: 2005
+note: "Written as part of school history module"
+---
 
 Hitler rose to power in 1933 due to the unpopularity of the Weimar Government.
 

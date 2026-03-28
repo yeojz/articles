@@ -1,9 +1,9 @@
-#Bolsheviks Consolidation
-
-* **First Written**: 2006
-* **First Published** : 2008-05-04
-* **Edited** : -
-* **Note:** Written as part of school history module
+---
+title: "Bolsheviks Consolidation"
+date: 2008-05-04
+first_written: 2006
+note: "Written as part of school history module"
+---
 		
 Bolsheviks consolidated power militarily, socially, economically and politically.
 

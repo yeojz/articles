@@ -1,9 +1,9 @@
-#The League of Nations
-
-* **First Written**: 2005
-* **First Published** : 2008-01-20
-* **Edited** : -
-* **Note:** Written as part of school history module
+---
+title: "The League of Nations"
+date: 2008-01-20
+first_written: 2005
+note: "Written as part of school history module"
+---
 
 The League of Nations was established in April 1919 to deal with the difficult international problems. The League, as well as the framework and structure is bounded by the covenant, which is a set of rules that member states have to follow. It aimed to discourage aggression, encourage trade and disarmament and improve living and working conditions of people worldwide.  It also worked by the principle of collective security, in which all disputes threatening war would be submitted to the League and any member resorting to war would have broken the Covenant, and would face collective action by other members.
 

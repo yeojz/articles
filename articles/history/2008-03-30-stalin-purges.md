@@ -1,9 +1,9 @@
-#Stalin: Purges
-
-* **First Written**: 2006
-* **First Published** : 2008-03-30
-* **Edited** : -
-* **Note:** Written as part of school history module
+---
+title: "Stalin: Purges"
+date: 2008-03-30
+first_written: 2006
+note: "Written as part of school history module"
+---
 
 Stalin was constantly suspecting a coup or assassination, as well as conspiracies against him.
 

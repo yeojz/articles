@@ -1,9 +1,9 @@
-#The domestic policies of Mussolini
-
-* **First Written**: 2006
-* **First Published** : 2007-12-23
-* **Edited** : -
-* **Note:** Written as part of school history module
+---
+title: "The domestic policies of Mussolini"
+date: 2007-12-23
+first_written: 2006
+note: "Written as part of school history module"
+---
 
 The domestic policies of Mussolini can be divided into three parts, political, economic and social. 
 

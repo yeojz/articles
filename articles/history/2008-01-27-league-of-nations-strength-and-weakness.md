@@ -1,9 +1,9 @@
-#League Of Nations: Strength and Weakness
-
-* **First Written**: 2005
-* **First Published** : 2008-01-27
-* **Edited** : -
-* **Note:** Written as part of school history module
+---
+title: "League Of Nations: Strength and Weakness"
+date: 2008-01-27
+first_written: 2005
+note: "Written as part of school history module"
+---
 
 The League of Nations managed to end secret diplomacy and alliance to a large extent and also open up new international relations between states and the international organization. It promoted peace and international cooperation between states. Living conditions like health and education also improved.
 

@@ -1,9 +1,9 @@
-#Mao: Economic Policies
-
-* **First Written**: 2006
-* **First Published** : 2008-04-20
-* **Edited** : -
-* **Note:** Written as part of school history module
+---
+title: "Mao: Economic Policies"
+date: 2008-04-20
+first_written: 2006
+note: "Written as part of school history module"
+---
 
 
 From 1949, Mao implemented economic policies after coming into power to prove that Chinese communism would be a success in bringing about economic growth.

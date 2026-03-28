@@ -1,9 +1,9 @@
-#Yeltsin: Domestic Policies
-
-* **First Written**: 2006
-* **First Published** : 2008-03-09
-* **Edited** : -
-* **Note:** Written as part of school history module
+---
+title: "Yeltsin: Domestic Policies"
+date: 2008-03-09
+first_written: 2006
+note: "Written as part of school history module"
+---
 
 
 Boris Nikolayevich Yeltsin  was the first elected President of the Russian Federation following the fall of the Soviet Union.

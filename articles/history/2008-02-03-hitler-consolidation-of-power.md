@@ -1,9 +1,9 @@
-#Hitler: Consolidation of Power
-
-* **First Written**: 2006
-* **First Published** : 2008-02-03
-* **Edited** : -
-* **Note:** Written as part of school history module
+---
+title: "Hitler: Consolidation of Power"
+date: 2008-02-03
+first_written: 2006
+note: "Written as part of school history module"
+---
 
 Consolidation of power is to remove opposition, gain mass support and to emerge as dictator. Hitler had been invited to power by a group of right-wing politicians on January 30, 1933since they thought that they could control Hitler if he was invited to power. Thus, Hitler was allowed to consolidate his personal and regime’s power through legal means.The Reichstag Fire incident occurred on February 27, 1933. It had been caused by the setting of fire on the Reichstag by an ex-communist and Hitler made use of this to put the blame on the communist to discredit them. He persuaded Hindenburg to rule by decree and declare a state of emergency on February 28. His aim was to crush opponents by suspending their civil rights, such as rights to a fair trial and free press. Mass arrests of his opponents were made and they were imprisoned without trial. This eliminated further potential opposition from Communists.
 

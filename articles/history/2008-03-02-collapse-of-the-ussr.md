@@ -1,9 +1,9 @@
-#Collapse of the USSR
-
-* **First Written**: 2006
-* **First Published** : 2008-03-02
-* **Edited** : -
-* **Note:** Written as part of school history module
+---
+title: "Collapse of the USSR"
+date: 2008-03-02
+first_written: 2006
+note: "Written as part of school history module"
+---
 
 In December 1991, the Soviet Union collapsed and the communist dominance ended. This is due to many years of mismanaged economy and unsound policies.
 

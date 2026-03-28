@@ -1,9 +1,9 @@
-#World War II: Opening Phase (1939-1940)
-
-* **First Written**: 2006
-* **First Published** : 2008-02-17
-* **Edited** : -
-* **Note:** Written as part of school history module
+---
+title: "World War II: Opening Phase (1939-1940)"
+date: 2008-02-17
+first_written: 2006
+note: "Written as part of school history module"
+---
 
 
 German army advanced into Western Europe and had straight victories till Battle of Britain. War aims of Germany were to conquer lebensraum, overthrow Treaty of Versailles, reunite all Germans and dominate the world.

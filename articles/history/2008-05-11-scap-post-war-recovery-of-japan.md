@@ -1,9 +1,9 @@
-#SCAP: Post-war recovery of Japan
-
-* **First Written**: 2006
-* **First Published** : 2008-05-11
-* **Edited** : -
-* **Note:** Written as part of school history module
+---
+title: "SCAP: Post-war recovery of Japan"
+date: 2008-05-11
+first_written: 2006
+note: "Written as part of school history module"
+---
 		
 
 *( "SCAP" is short for "Supreme Commander of the Allied Powers" )*

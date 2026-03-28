@@ -1,9 +1,10 @@
-#German criticism of the Treaty of Versailles
-
-* **First Written**: 2005
-* **First Published** : 2008-01-06
-* **Edited** : 2010-01-31
-* **Note:** Written as part of school history module
+---
+title: "German criticism of the Treaty of Versailles"
+date: 2008-01-06
+first_written: 2005
+edited: 2010-01-31
+note: "Written as part of school history module"
+---
 
 **To what extent were the German criticisms of the Treaty of Versailles justified?**
 

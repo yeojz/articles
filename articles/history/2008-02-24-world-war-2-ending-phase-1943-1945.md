@@ -1,9 +1,9 @@
-#World War II: Ending Phase (1943-1945)
-
-* **First Written**: 2006
-* **First Published** : 2008-02-24
-* **Edited** : -
-* **Note:** Written as part of school history module
+---
+title: "World War II: Ending Phase (1943-1945)"
+date: 2008-02-24
+first_written: 2006
+note: "Written as part of school history module"
+---
 		
 By 1943, people were fed up with Mussolini and war. Italy had gone into war when it was not militarily prepared and suffered many war defeats and hardships. The Oct 1940 invasion of Greece was repulsed. The September 1940 North African campaigns also failed disastrously. Italians were infuriated when Germany was using Italy as a resource rather than an ally. Mussolini was eventually dismissed by the King.
 

@@ -1,9 +1,9 @@
-#Stalin: Power Struggle
-
-* **First Written**: 2006
-* **First Published** : 2008-03-23
-* **Edited** : -
-* **Note:** Written as part of school history module
+---
+title: "Stalin: Power Struggle"
+date: 2008-03-23
+first_written: 2006
+note: "Written as part of school history module"
+---
 	
 Stalin and Trotsky struggled for power after Lenin’s death, with Stalin succeeding for various reasons.
 

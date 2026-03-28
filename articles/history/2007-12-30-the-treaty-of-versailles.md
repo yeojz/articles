@@ -1,9 +1,10 @@
-#The Treaty of Versailles 
-
-* **First Written**: 2006
-* **First Published** : 2007-12-30
-* **Edited** : 2008-01-23
-* **Note:** Written as part of school history module
+---
+title: "The Treaty of Versailles"
+date: 2007-12-30
+first_written: 2006
+edited: 2008-01-23
+note: "Written as part of school history module"
+---
 
 The Treaty of Versailles aimed to preserve peace, prevent another world war and to weaken and punish the aggressors. The Treaty had territorial, military, economic and political terms.
 

@@ -1,9 +1,9 @@
-#Mao: Political Policies and Cultural Revolution
-
-* **First Written**: 2006
-* **First Published** : 2008-04-27
-* **Edited** : -
-* **Note:** Written as part of school history module
+---
+title: "Mao: Political Policies and Cultural Revolution"
+date: 2008-04-27
+first_written: 2006
+note: "Written as part of school history module"
+---
 
 
 Mao implemented political policies after the fall of Kuomintang to set up a socialist state along Maoist lines and consolidate CCP’s power.
